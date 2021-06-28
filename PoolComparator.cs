@@ -30,7 +30,9 @@ namespace FinalEamDemoProgram
                         //if guessed correctly, add that number to the resPool
                         //then terminate the loop to check the next number in the guessPool
                        /*
-                        ------------- write your code in this line --------------------
+                        int countofCorrectGuess=comparator.Comparepool(winning pool.GetCurrentPool()guessPool.GetCurrentPool());
+
+
                        */
                     }
                 }
